@@ -60,5 +60,19 @@ form input[type="radio"]:checked + label {
   color: #2C2D2A;
   padding: 0 30px;
   background-color: #B6D6C8;
-  border-radius: 5px;
+  border-/* SERVICES */
+.services {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  text-align: center;
+}
+/* SERVICES */
+.services {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  text-align: center;
 }
